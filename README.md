@@ -1,4 +1,4 @@
-### Challenge Assignemtnt Background:
+### Challenge Assignment Background:
 From Alphabet Soup’s business team, Beks received a CSV containing more than 34,000 organizations that have received various amounts of funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization such as the following:
 
 * EIN and NAME—Identification columns
